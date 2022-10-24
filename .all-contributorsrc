@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributorsPerLine": 7,
+  "projectName": "Hermes",
+  "projectOwner": "niko-zvt",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "niko-zvt",
+      "name": "Nikolay Zhivotenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8627490?v=4",
+      "profile": "http://zhivotenko.ru",
+      "contributions": [
+        "design",
+        "code"
+      ]
+    }
+  ]
+}
