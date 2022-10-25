@@ -43,6 +43,11 @@ layout: default
     {{ content }}
   </article>
 
+  {% if page.publications -%}
+  <!-- Selected papers -->
+    {%- include publications.html %}
+  {%- endif %}
+
   {%- if site.disqus_shortname and page.comments -%}
     <div id="disqus_thread"></div>
     <script type="text/javascript">
