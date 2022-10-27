@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science (Hons). Grade 5 out of 5
+    - title: <a href="" target="_blank">Master of Science (Hons). Grade 5 out of 5</a>
       institution: <a href="https://bmstu.ru/">Bauman Moscow State Technical University</a>, Moscow, Russia.
       info: The basic principle of the Bauman Engineering School is a combination of deep theoretical knowledge and extensive practical skills. The University trains specialists who are able to conduct developments in the field of high technologies, knowledge-intensive industries, who have knowledge in the field of economics, management, digital solutions, entrepreneurship.
       year: 2012 - 2018
@@ -27,7 +27,7 @@
             - Space antennas.
             - Reusable spacecraft.
             - Space rockets and rocket engines.
-    - title: Bachelor of Science (Hons). Grade 4.75 out of 5
+    - title: <a href="" target="_blank">Bachelor of Science (Hons). Grade 4.75 out of 5</a>
       institution: <a href="https://cchgeu.ru/">Voronezh State Technical University</a>, Voronezh, Russia.
       info: The flagship university of Voronezh region which combines educational, scientific, staff, and technical capacity. Voronezh region is one of the most developed industrial centers of the country playing the key role in the domestic industry. Voronezh enterprises produce rocket engines, airliners, modern means of communication.
       year: 2012 - 2016
@@ -200,4 +200,3 @@
   type: list
   contents:
     - <i>Hobbies:</i> Ant breeding and ant farms, badge collecting, planespotting, mineral DDoS, etc.
-    
