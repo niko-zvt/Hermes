@@ -87,6 +87,14 @@ blockquote {
     color: var(--global-text-color);
   }
 
+  .card-year {
+    margin-top: -10px;
+    margin-bottom: 0px;
+    text-align: right;
+    font-size: 0.85em;
+    color: var(--global-gray-color-deep);
+  }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
