@@ -4,6 +4,7 @@ title: Lead-free Ferroelectrics
 description: The project to create solid solutions and ceramics based on them for new environmentally friendly and sustainable nano- and microelectronics materials.
 img: assets/img/projects/ferroelectrics/logo.jpg
 importance: 90
+year: 2014
 category: work
 publications: true
 ---

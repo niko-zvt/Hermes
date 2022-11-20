@@ -4,6 +4,7 @@ title: Irkut MC-21/PD-14
 description: The project is to use SIAL-type material in the nacelle of PD-14 engines designed for Irkut MC-21 short- and medium-haul aircraft.
 img: assets/img/projects/irkut-mc-21/logo.jpg
 importance: 80
+year: 2015
 category: work
 publications: true
 ---

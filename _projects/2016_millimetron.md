@@ -4,6 +4,7 @@ title: Millimetron
 description: Millimetron space observatory (Spektr-M) is a project of Astro Space Center of Lebedev Physical Institute, Russian Academy of Sciences (ASC LPI).
 img: assets/img/projects/millimetron/logo.jpg
 importance: 70
+year: 2016
 category: work
 ---
 

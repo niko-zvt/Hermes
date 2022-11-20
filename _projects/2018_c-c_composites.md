@@ -4,6 +4,7 @@ title: C/C Composites
 description: The project was aimed at studying micro-, meso- and microstructure characteristics of an axially braided C/C composites.
 img: assets/img/projects/c-c-composites/logo.jpg
 importance: 60
+year: 2018
 category: work
 publications: true
 ---
