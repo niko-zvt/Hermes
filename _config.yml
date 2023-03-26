@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Nikolay
+first_name: Nikolai
 middle_name:
 last_name: Zhivotenko
 email: niko.zvt@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Nikolay Zhivotenko is a principal software engineer and senior material scientist at Mighty Buildings, Inc.
+  Nikolai Zhivotenko is a principal software engineer and senior material scientist at Mighty Buildings, Inc.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
 keywords: zhivotenko, niko.zvt, academic-website, portfolio-website  # add your own keywords or leave empty
@@ -68,14 +68,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: niko-zvt # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: nikolay-zhivotenko # your LinkedIn user name
+linkedin_username: nikolai-zhivotenko # your LinkedIn user name
 telegram_id: niko_zvt # your Telegram ID
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: Nikolay-Zhivotenko # your profile on ResearchGate
+research_gate_profile: Nikolai-Zhivotenko # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: mailto:nikolay@mightybuildings.com # work page URL
 keybase_username: # your keybase user name
@@ -224,7 +224,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Zhivotenko
-  first_name: [Nikolay, V.]
+  first_name: [Nikolai, V.]
 
   style: apa
   locale: en

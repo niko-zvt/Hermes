@@ -1,5 +1,5 @@
 FROM jekyll/jekyll
-Label MAINTAINER Nikolay Zhivotenko
+Label MAINTAINER Nikolai Zhivotenko
 #install imagemagick tool for convert command
 RUN apk add --no-cache --virtual .build-deps \
         libxml2-dev \

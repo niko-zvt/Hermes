@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://researchgate.net/profile/Nikolay-Zhivotenko/'>M.Sc. (Hons)</a>,
- <a href='https://www.linkedin.com/in/nikolay-zhivotenko/'>Principal Software Engineer – Mighty Buildings, Inc.</a>
+subtitle: <a href='https://researchgate.net/profile/Nikolai-Zhivotenko/'>M.Sc. (Hons)</a>,
+ <a href='https://www.linkedin.com/in/nikolai-zhivotenko/'>Senior Software Engineer – Mighty Buildings, Inc.</a>
 
 profile:
   align: right
