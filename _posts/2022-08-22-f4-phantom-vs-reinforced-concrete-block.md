@@ -5,11 +5,13 @@ date:   2022-08-22 17:04:00
 description: In 1988, the US government wanted to check how strong the reinforced concrete used in nuclear reactors was. They decided to answer the question "Will it withstand, for example, a point hit by an airplane?" directly, and launched the F-4 Phantom fighter into the concrete block at a speed of 500 mph (804.67 km/h). What is the result?
 tags: crash fem experiment
 categories: science
+publications: true
 ---
 
 In 1988, the US government wanted to check how strong the reinforced concrete used in nuclear reactors was. They decided to answer the question "Will it withstand, for example, a point hit by an airplane?" directly, and launched the F-4 Phantom fighter into the concrete block at a speed of 500 mph (804.67 km/h).
 
 What is the result? The plane effectively crumbled into small pieces, and the reinforced concrete slab was only slightly scratched.
+Later, Jung-Wuk, Jae-Wook and Kyoungsoo conducted a numerical experiment and published an article {% cite  JungWuk_F4_Phantom %}.
 
 [Video](https://www.youtube.com/watch?v=U4wDqSnBJ-k&t=0s) description:
 
@@ -39,6 +41,4 @@ What is the result? The plane effectively crumbled into small pieces, and the re
     </div>
 </div>
 
-<hr>
-
-Later, Jung-Wuk, Jae-Wook and Kyoungsoo conducted a numerical experiment and published an article *"[Advanced aircraft analysis of an F-4 Phantom on a reinforced concrete building](https://doi.org/10.1016/j.nucengdes.2014.02.032)"* in the journal *"Nuclear Engineering and Design"*.
+#### ⚡️ See also
