@@ -2,7 +2,7 @@
 layout: post
 title:  From Pringles® to Space - Unveiling the Mysteries of Hyperbolic Paraboloids and Magic Linear Structures
 date:   2023-09-15 18:00:00
-description: test
+description: It turns out that this iconic snack isn't just a happy accident – it's actually a product of mathematics, specifically a second-order surface type known as the hyperbolic paraboloid, which happens to resemble a "saddle". So, let's saddle up and explore the mathematical magic behind Pringles®!
 tags: math geometry composites structures
 categories: science
 publications: true
