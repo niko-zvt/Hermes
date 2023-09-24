@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of joint and my projects.
 nav: true
 nav_order: 2
-display_categories: [work, open source, fun]
+display_categories: [open source, work, fun]
 horizontal: false
 ---
 
