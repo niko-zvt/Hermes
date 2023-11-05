@@ -1,7 +1,5 @@
 {
-  "files": [
-    "README.md"
-  ],
+  "files": [ "README.md" ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -12,16 +10,12 @@
   "badgeTemplate": "[core_contributors]: https://img.shields.io/badge/core_contributors-<%= contributors.length %>-orange.svg 'Number of core contributors'",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "skipCi": true,
-  "contributors": [
-    {
+  "contributors":
+  [{
       "login": "niko-zvt",
       "name": "Nikolai Zhivotenko",
       "avatar_url": "https://avatars.githubusercontent.com/u/8627490?v=4",
       "profile": "http://zhivotenko.com",
-      "contributions": [
-        "design",
-        "code"
-      ]
-    }
-  ]
+      "contributions": ["design", "code"]
+  }]
 }
