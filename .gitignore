@@ -1,5 +1,9 @@
-_site
+# Builds
+Build/*
 build/*
+Source/_site
+_site
+
 .bundle
 .sass-cache
 .jekyll-cache

@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "type": "shell",
+    "options": 
+    {
+        "cwd": "${workspaceRoot}/"
+    },
+
+    "tasks": 
+    [
+        //
+        // Mac OS Tasks
+        //
+
+        // 1. Build
+        {
+            "label": "Hermes.MacOS.Build",
+            "command": "mkdir Build; mkdir ./Build/_site; cd ./Build/_site/; jekyll build JEKYLL_ENV=production -s ../../Source/ -d .",
+            "type": "shell",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            }
+        },
+
+        //
+        // GNU/Linux Tasks
+        //
+
+        //
+        // Windows Tasks
+        //
+    ]
+}
